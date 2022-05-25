@@ -1,7 +1,7 @@
 # FR-Katas
 
 Programación reactiva y funcional: Katas
-======================
+
 java8-functional-Katas
 ======================
 Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
