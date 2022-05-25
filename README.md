@@ -1,3 +1,7 @@
+# FR-Katas
+
+Programación reactiva y funcional: Katas
+======================
 java8-functional-Katas
 ======================
 Some Katas for functional programming in Java 8 for a coding dojo (loosely based on http://reactive-extensions.github.io/learnrx/ and converted to Java)
@@ -18,3 +22,4 @@ Katas
 * Kata 9: Complex Query
 * Kata 10: Transforming a data structure
 * Kata 11: Transforming a more complex data structure
+# FR-Katas
