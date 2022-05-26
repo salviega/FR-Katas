@@ -27,9 +27,6 @@ public class Kata2 {
                 .filter(movie -> movie == 5)
                 .collect(Collectors.toList());
 
-        movies.stream()
-                .forEach(movie -> System.out.println(movie.getRating()));
-
         return  newMovies;
     }
 }
